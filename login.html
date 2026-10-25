@@ -1,0 +1,5 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sign in · AI Loan Collection Agent</title><link rel="stylesheet" href="/static/style.css"></head>
+<body class="login-body"><main class="login-card"><div class="brand-mark">AI</div><h1>Loan Collection Agent</h1><p class="muted">Secure collection operations dashboard</p>
+{% if error %}<div class="error">{{ error }}</div>{% endif %}
+<form method="post" action="/login"><label>Username<input name="username" autocomplete="username" required></label><label>Password<input type="password" name="password" autocomplete="current-password" required></label><button class="primary full" type="submit">Sign in</button></form>
+<p class="small muted">Demo default: admin / ChangeMe123! — change before deployment.</p></main></body></html>

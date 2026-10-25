@@ -1,0 +1,5 @@
+customer_name,phone,loan_ref,due_date,outstanding_amount,payment_status,branch,employee
+Asha Kumari (DEMO),9000000001,DEMO-1001,2026-10-28,2450,upcoming,Demo Branch,Demo Agent
+Ravi Kumar (DEMO),9000000002,DEMO-1002,2026-10-20,3200,overdue,Demo Branch,Demo Agent
+Neha Devi (DEMO),9000000003,DEMO-1003,2026-10-22,1800,paid,Demo Branch,Demo Agent
+Imran Ansari (DEMO),9000000004,DEMO-1004,2026-10-26,2750,overdue,Demo Branch,Demo Agent
